@@ -713,6 +713,17 @@ const internationalExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: 'NewOriental_IELTS',
+    name: '新东方词以类记：IELTS词汇',
+    description: '词以类记',
+    category: '国际考试',
+    tags: ['IELTS'],
+    url: '/dicts/NewOriental_IELTS.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'sat',
     name: 'SAT',
     description: '美国 SAT 考试词库',

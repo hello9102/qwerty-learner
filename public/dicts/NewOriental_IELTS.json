@@ -1,0 +1,305 @@
+[
+  {
+    "name": "arid",
+    "trans": [
+      "adj. 干旱的(barren,dry)"
+    ]
+  },
+  {
+    "name": "atmosphere",
+    "trans": [
+      "n. 气氛；大气层"
+    ]
+  },
+  {
+    "name": "balmy",
+    "trans": [
+      "adj. 温和的(mild,temperate,moderate)"
+    ]
+  },
+  {
+    "name": "barometer",
+    "trans": [
+      "n. 气压计(indicator)"
+    ]
+  },
+  {
+    "name": "blast",
+    "trans": [
+      "n. 一阵(风)(gust,blow)"
+    ]
+  },
+  {
+    "name": "blizzard",
+    "trans": [
+      "n. 大风雪"
+    ]
+  },
+  {
+    "name": "breeze",
+    "trans": [
+      "n. 微风"
+    ]
+  },
+  {
+    "name": "chill",
+    "trans": [
+      "vt. 使变冷",
+      "n. 寒冷"
+    ]
+  },
+  {
+    "name": "chilly",
+    "trans": [
+      "adj. 寒冷的"
+    ]
+  },
+  {
+    "name": "climate",
+    "trans": [
+      "n. 气候(weather); 气氛(atmosphere)"
+    ]
+  },
+  {
+    "name": "condense",
+    "trans": [
+      "v. (使)浓缩，精简"
+    ]
+  },
+  {
+    "name": "convection zone",
+    "trans": [
+      "对流层"
+    ]
+  },
+  {
+    "name": "crystal",
+    "trans": [
+      "n. 水晶，晶体"
+    ]
+  },
+  {
+    "name": "current",
+    "trans": [
+      "n. 气流"
+    ]
+  },
+  {
+    "name": "damp",
+    "trans": [
+      "n. 潮湿",
+      "adj. 潮湿的，有湿气的(wet,moist)"
+    ]
+  },
+  {
+    "name": "dank",
+    "trans": [
+      "adj. 阴湿的(damp,clammy)"
+    ]
+  },
+  {
+    "name": "dew",
+    "trans": [
+      "n. 露，露水般的东西"
+    ]
+  },
+  {
+    "name": "downpour",
+    "trans": [
+      "n. 倾盆大雨"
+    ]
+  },
+  {
+    "name": "drizzle",
+    "trans": [
+      "v. 下细雨(rain,sprinkle)"
+    ]
+  },
+  {
+    "name": "droplet",
+    "trans": [
+      "n. 小雨滴"
+    ]
+  },
+  {
+    "name": "drought",
+    "trans": [
+      "n. 干旱(aridity,dry period,prolonged lack of rain)"
+    ]
+  },
+  {
+    "name": "frigid",
+    "trans": [
+      "adj. 严寒的(icy,freezing); 冷淡的"
+    ]
+  },
+  {
+    "name": "frost",
+    "trans": [
+      "n. 霜，霜冻，严寒",
+      "v. 结霜"
+    ]
+  },
+  {
+    "name": "funnel",
+    "trans": [
+      "n. 漏斗云"
+    ]
+  },
+  {
+    "name": "gale",
+    "trans": [
+      "n. 大风(storm,tempest)"
+    ]
+  },
+  {
+    "name": "greenhouse effect",
+    "trans": [
+      "n. 温室效应"
+    ]
+  },
+  {
+    "name": "hail",
+    "trans": [
+      "n. 冰雹； 致敬，招呼"
+    ]
+  },
+  {
+    "name": "humid",
+    "trans": [
+      "adj. 潮湿的(damp,moist)"
+    ]
+  },
+  {
+    "name": "humidity",
+    "trans": [
+      "n. 潮湿(moisture)"
+    ]
+  },
+  {
+    "name": "hurricane",
+    "trans": [
+      "n. 飓风"
+    ]
+  },
+  {
+    "name": "meteorology",
+    "trans": [
+      "n. 气象学；气象状态"
+    ]
+  },
+  {
+    "name": "moisture",
+    "trans": [
+      "n. 潮湿，湿气"
+    ]
+  },
+  {
+    "name": "oxygen",
+    "trans": [
+      "n. 氧气"
+    ]
+  },
+  {
+    "name": "ozone layer",
+    "trans": [
+      "n. 臭氧层"
+    ]
+  },
+  {
+    "name": "precipitation",
+    "trans": [
+      "n. 降水"
+    ]
+  },
+  {
+    "name": "saturate",
+    "trans": [
+      "v. 使饱和，浸透，使充满"
+    ]
+  },
+  {
+    "name": "fog",
+    "trans": [
+      "n. 雾"
+    ]
+  },
+  {
+    "name": "serene",
+    "trans": [
+      "adj. 晴朗的；平静的"
+    ]
+  },
+  {
+    "name": "smog",
+    "trans": [
+      "n. 烟雾"
+    ]
+  },
+  {
+    "name": "temperature",
+    "trans": [
+      "n. 温度"
+    ]
+  },
+  {
+    "name": "tempest",
+    "trans": [
+      "n. 暴风雨"
+    ]
+  },
+  {
+    "name": "tepid",
+    "trans": [
+      "adj. 微温的(lukewarm,warm)"
+    ]
+  },
+  {
+    "name": "tornado",
+    "trans": [
+      "n. 旋风，龙卷风，大雷雨"
+    ]
+  },
+  {
+    "name": "troposphere",
+    "trans": [
+      "n. 对流层"
+    ]
+  },
+  {
+    "name": "typhoon",
+    "trans": [
+      "n. 台风"
+    ]
+  },
+  {
+    "name": "vapor",
+    "trans": [
+      "n. 水汽，水蒸气"
+    ]
+  },
+  {
+    "name": "whirlwind",
+    "trans": [
+      "n. 旋风"
+    ]
+  },
+  {
+    "name": "",
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "name": "",
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "name": "",
+    "trans": [
+      ""
+    ]
+  }
+]
